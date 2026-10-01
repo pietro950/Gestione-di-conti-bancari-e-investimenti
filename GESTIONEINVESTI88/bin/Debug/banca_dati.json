@@ -1,0 +1,10 @@
+[
+  {
+    "tipo": "ContoInvestimenti",
+    "nome": "Pietro",
+    "cognome": "Bolognini",
+    "iban": "123456789123456789123456798",
+    "saldo": 1000,
+    "investimenti": {}
+  }
+]
